@@ -33,13 +33,13 @@ Style
 - Use inline styles to offset important text
 
 
-More Resources
+# More Resources
 
-Authors & Acknowledgements
+# Authors & Acknowledgements
 
 Written by Sungjae Hyun following Andrew Etter's book *Modern Technical Writing*.
 
-FAQ
+# FAQ
 
 1. Why is Markdown better than a word processor?
 
