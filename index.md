@@ -3,10 +3,14 @@ Sungjae Hyun
 Address ▪ Winnipeg, MB PST CDE 
 ▪ (236) 688-2052▪ hyuns@myumanitoba.ca
 
+—-----------------------------------------------------------------------------------------------------------
+
 
 EDUCATION
 Bachelor of Computer Science 2018 - Present
 Winnipeg, MB. Expected date of graduation: December 2022
+
+—-----------------------------------------------------------------------------------------------------------
 
 TECHNICAL SKILLS
 
