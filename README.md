@@ -33,6 +33,11 @@ Style
 - Use inline styles to offset important text
 
 
+More Resources
+
+Authors & Acknowledgements
+
+Written by Sungjae Hyun following Andrew Etter's book *Modern Technical Writing*.
 
 FAQ
 
