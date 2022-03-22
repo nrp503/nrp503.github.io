@@ -48,3 +48,5 @@ First, Markdown is free to use unlike Microsoft Office products.
 Second, Markdown helps user to create simple and static websites.
 
 2. "Why is my resume not showing up?"
+
+GitHub takes some time to update its repository so please return to your repository after some time.
