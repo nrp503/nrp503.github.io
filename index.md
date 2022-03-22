@@ -21,9 +21,9 @@ Practical experience Linux
 —-----------------------------------------------------------------------------------------------------------
 Language 
 
-Korean Native speaker
+Korean - Native speaker
 
-English Highly proficient
+English - Highly proficient
 
 
 —-----------------------------------------------------------------------------------------------------------
