@@ -57,7 +57,8 @@ These are the steps for hosting and formating resume using GitHub pages:
 ***
 # Authors & Acknowledgements
 ***
-Andrew Etter's book *Modern Technical Writing*.
+Written by Sungjae Hyun under guidelines of Andrew Etter's book *Modern Technical Writing*.
+Also, thanks to my groupmates Chowdhury Ishmam, PokYee Tsu, Kieran Ketelesen, and Zhong He for insights and feedback.
 ***
 # FAQ
 ***
