@@ -29,9 +29,21 @@ These are the steps for hosting and formating resume using GitHub pages:
 
 2. Go to the "Repositories"
 
-3. On the textbox named "Repository Name" please type (your_username).github.io.
+3. On the textbox named "Repository Name" please type "your_username".github.io.
 
 4. Then click on "Create Repository"
+
+5. When your new repository is ready please change your "Your Resume Name".md into "index.md"
+
+6. In your repository named "YourUserName.github.io" click on "Add file"
+
+7. Then click on "Upload files"
+
+8. Upload your "index.md" file and click the green button named "Commit changes"
+
+9. Then go to your "YourUserName.github.io" page on broswer
+
+10. Check your resume upload is succesful.
 
 Technical writers produce
 - formal documentation
