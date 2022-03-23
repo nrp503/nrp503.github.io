@@ -1,3 +1,5 @@
+# ** How to host a resume on GitHub**
+***
 # nrp503.github.io
 
 # Readme
@@ -37,6 +39,8 @@ Style
 # More Resources
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 # Authors & Acknowledgements
 
