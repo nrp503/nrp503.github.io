@@ -45,25 +45,7 @@ These are the steps for hosting and formating resume using GitHub pages:
 
 10. Check your resume upload is succesful.
 
-Technical writers produce
-- formal documentation
-- comprehensive documentation
-- print documentation
 
-
-Technical writers help protect companies from lawsuits
-
-Define the audience
-
-Don't write from memory - verify content as you write it.
-	
-Style
-
-- Consistency is king
-
-- Bias towards including headers, tables, lists, diagrams, and images
-
-- Use inline styles to offset important text
 
 ![my-gif](my_resume_gif.gif)
 ***
