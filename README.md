@@ -36,7 +36,7 @@ Style
 
 # More Resources
 
-[Markdown Tutorial]https://www.markdowntutorial.com/
+[Markdown Tutorial](https://www.markdowntutorial.com/)
 
 # Authors & Acknowledgements
 
