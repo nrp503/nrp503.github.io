@@ -36,6 +36,8 @@ Style
 
 # More Resources
 
+[Markdown Tutorial]https://www.markdowntutorial.com/
+
 # Authors & Acknowledgements
 
 Written by Sungjae Hyun following Andrew Etter's book *Modern Technical Writing*.
