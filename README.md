@@ -23,15 +23,15 @@ There are several lightweight markup languages in this world but I chose
 
 Markdown because it is the most widely used light weight markup language in the world.
 
-This readme file will describe how to host and format resume using GitHub pages.
+These are the steps for hosting and formating resume using GitHub pages:
 
-First, you need to make GitHub account if you don't have one.
+1. You need to make GitHub account if you don't have one.
 
-Then go to the repositories
+2. Go to the "Repositories"
 
-Create [username].github.io.
+3. On the textbox named "Repository Name" please type (your_username).github.io.
 
-
+4. Then click on "Create Repository"
 
 Technical writers produce
 - formal documentation
