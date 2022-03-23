@@ -1,4 +1,4 @@
-# ** How to host a resume on GitHub**
+# How to host a resume on GitHub
 ***
 # Topics
 ***
@@ -59,7 +59,7 @@ Style
 ***
 # Authors & Acknowledgements
 ***
-Written by Sungjae Hyun following Andrew Etter's book *Modern Technical Writing*.
+Andrew Etter's book *Modern Technical Writing*.
 ***
 # FAQ
 ***
