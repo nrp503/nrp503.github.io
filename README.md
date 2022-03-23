@@ -32,6 +32,7 @@ Style
 
 - Use inline styles to offset important text
 
+![my-gif](my_resume_gif.gif)
 
 # More Resources
 
