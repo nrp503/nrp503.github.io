@@ -19,6 +19,8 @@
 # Instructions
 ***
 
+## Part1: Resume
+
 There are several lightweight markup languages in this world but I chose
 
 Markdown because it is the most widely used light weight markup language in the world.
@@ -44,6 +46,18 @@ These are the steps for hosting and formating resume using GitHub pages:
 9. Then go to your "YourUserName.github.io" page on broswer
 
 10. Check your resume upload is succesful.
+
+## Part2: Resume on static website
+
+For better apperance of resume presentation use static site generator Jekyll.
+
+1. Go to your repository.
+
+2. Click on "Settings" button.
+
+3. 
+
+
 
 
 
