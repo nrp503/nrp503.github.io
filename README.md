@@ -55,10 +55,11 @@ For better apperance of resume presentation use static site generator Jekyll.
 
 2. Click on "Settings" button.
 
-3. 
+3. Create _config.yml which will contain details of Jekyll themes.
 
+4. Inside _config.yml enter the required instructions for your desired theme.
 
-
+5. Now on your browser enter "YourUserName.github.io" to see your website.
 
 
 ![my-gif](my_resume_gif.gif)
