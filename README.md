@@ -19,6 +19,10 @@
 # Instructions
 ***
 
+There are several lightweight markup languages in this world but I chose
+
+Markdown because it is the most widely used light weight markup language in the world.
+
 This readme file will describe how to host and format resume using GitHub pages.
 
 First, you need to make GitHub account if you don't have one.
