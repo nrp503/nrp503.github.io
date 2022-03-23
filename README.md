@@ -1,8 +1,23 @@
 # ** How to host a resume on GitHub**
 ***
-# nrp503.github.io
+# Topics
+***
+1. Title
+2. Prerequisites
+3. Instructions
+4. More Resources
+5. Authors and Acknowledgments 
+6. FAQs
+***
 
-# Readme
+# Prerequisites
+***
+1. Your resume in MarkDown format.
+2. Github Account with public repository
+
+***
+# Instructions
+***
 
 This readme file will describe how to host and format resume using GitHub pages.
 
@@ -35,19 +50,19 @@ Style
 - Use inline styles to offset important text
 
 ![my-gif](my_resume_gif.gif)
-
+***
 # More Resources
-
+***
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-
+***
 # Authors & Acknowledgements
-
+***
 Written by Sungjae Hyun following Andrew Etter's book *Modern Technical Writing*.
-
+***
 # FAQ
-
+***
 1. Why is Markdown better than a word processor?
 
 First, Markdown is free to use unlike Microsoft Office products.
