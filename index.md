@@ -34,6 +34,8 @@ English - Highly proficient
 —-----------------------------------------------------------------------------------------------------------
 Current Game Development Project
 
+Beehive Bubble Pop - casual mobile game released on Google App Store
+
 Shoot N Scoot - 2d shooting game currently development in progress.
 
 
