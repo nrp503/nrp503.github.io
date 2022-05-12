@@ -4,10 +4,10 @@ Sungjae Hyun
 82-10-8694-9033 (Mobile Phone in Korea)
 =============================================================</p>
 
-
+<p>
 EDUCATION 
 Bachelor of Computer Science 2018 - Present Winnipeg, MB. Expected date of graduation: December 2022
-=============================================================
+=============================================================</p>
 
 TECHNICAL SKILLS
 Programming Practical experience: Python, Java, Objected Oriented Programming Course knowledge: C, C#, C++, Ruby, HTML, Assembly Language such as MIPS
